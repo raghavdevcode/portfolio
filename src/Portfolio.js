@@ -243,7 +243,7 @@ import { useEffect } from "react";
 
           <div className="flex flex-wrap justify-center gap-5 mt-10">
             <a
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=rbraghav0516@gmail.com" target="_blank"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=rbraghav0516@gmail.com" target="_blank"  rel="noreferrer"
               className="bg-cyan-500 hover:bg-cyan-400 text-black px-6 py-3 rounded-2xl font-semibold transition"
             >
               Email Me
