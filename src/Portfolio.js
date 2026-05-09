@@ -10,13 +10,13 @@ import { useEffect } from "react";
       title: "Digital Marketing Website",
       description:
         "Responsive digital marketing website with modern UI, service sections, and clean layouts.",
-      link: "https://codewithrb324.github.io/DIGITMARKETING-WEBSITE/",
+      link: "https://digitmarketingwebsite.netlify.app/",
     },
     {
       title: "Interiority Website",
       description:
         "Modern interior design business website with responsive layouts and attractive design.",
-      link: "https://codewithrb324.github.io/INTERIORITY-WEBSITE/",
+      link: "https://interioritywebsite.netlify.app/",
     },
   ];
 
