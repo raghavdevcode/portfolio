@@ -18,6 +18,12 @@ import { useEffect } from "react";
         "Modern interior design business website with responsive layouts and attractive design.",
       link: "https://interioritywebsite.netlify.app/",
     },
+     {
+      title: "StudyCourse Mern Stack Website",
+      description:
+        "Modern interior design business website with responsive layouts and attractive design.",
+      link: "https://studycourse-frontend.onrender.com/",
+    },
   ];
 
   const skills = [
@@ -141,7 +147,7 @@ import { useEffect } from "react";
 
           <div className="grid grid-cols-2 gap-5">
             <div className="bg-slate-900 border border-slate-800 p-6 rounded-3xl">
-              <h4 className="text-4xl font-bold text-cyan-400">2+</h4>
+              <h4 className="text-4xl font-bold text-cyan-400">3+</h4>
               <p className="text-slate-300 mt-2">Projects Completed</p>
             </div>
 
