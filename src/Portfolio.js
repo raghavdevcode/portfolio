@@ -21,7 +21,7 @@ import { useEffect } from "react";
      {
       title: "StudyCourse Mern Stack Website",
       description:
-        "Modern interior design business website with responsive layouts and attractive design.",
+        "StudyCourse is a premium e-learning platform built with the MERN stack, offering affordable online courses in Web Development, Programming, and Databases. It features video-based lessons, lifetime course access, free preview lessons, secure authentication, enrollment system, and an interactive student learning experience.",
       link: "https://studycourse-frontend.onrender.com/",
     },
   ];
