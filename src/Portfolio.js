@@ -105,7 +105,7 @@ import { useEffect } from "react";
             </a>
 
             <a
-              href="https://github.com/codewithrb324"
+              href="https://github.com/raghavdevcode"
               target="_blank"
               rel="noreferrer"
               className="border border-cyan-400 text-cyan-400 hover:bg-cyan-400 hover:text-black font-semibold px-6 py-3 rounded-2xl transition"
@@ -256,7 +256,7 @@ import { useEffect } from "react";
             </a>
 
             <a
-              href="https://github.com/codewithrb324"
+              href="https://github.com/raghavdevcode"
               target="_blank"
               rel="noreferrer"
               className="border border-cyan-400 text-cyan-400 hover:bg-cyan-400 hover:text-black px-6 py-3 rounded-2xl font-semibold transition"
